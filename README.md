@@ -27,7 +27,7 @@ logging a score each day, users can track patterns, gain insights, and gradually
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/bektas-sar/focus_score_app.git
+git clone https://github.com/bektas-sari/focus_score_app.git
 cd focus_score_app
 ```
 
