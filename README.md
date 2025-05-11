@@ -5,7 +5,8 @@ Users can rate their daily focus level and visualize progress with bar charts.
 
 ## 🎯 Purpose
 
-To help individuals develop mindfulness around their daily focus and productivity. By logging a score each day, users can track patterns, gain insights, and gradually improve concentration habits.
+To help individuals develop mindfulness around their daily focus and productivity. 
+logging a score each day, users can track patterns, gain insights, and gradually improve concentration habits.
 
 ## 🧩 Features
 
@@ -20,10 +21,6 @@ To help individuals develop mindfulness around their daily focus and productivit
 * **Flutter** (UI framework)
 * **Dart** (programming language)
 * **fl\_chart** (for interactive bar chart)
-
-## 📸 Screenshots
-
-*(Add screenshots here if available)*
 
 ## 🚀 Getting Started
 
