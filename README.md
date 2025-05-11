@@ -70,5 +70,3 @@ dependencies:
 
 ---
 
-> "What gets measured, gets improved." – Peter Drucker
-
