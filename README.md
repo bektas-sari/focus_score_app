@@ -1,6 +1,7 @@
-# 📱 Focus Score App
+# 📱 Focus Score App (Flutter APP)
 
-A minimal and effective productivity tracker app built with Flutter. Users can rate their daily focus level and visualize progress with bar charts.
+A minimal and effective productivity tracker app built with Flutter. 
+Users can rate their daily focus level and visualize progress with bar charts.
 
 ## 🎯 Purpose
 
